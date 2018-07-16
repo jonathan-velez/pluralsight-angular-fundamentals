@@ -1,0 +1,23 @@
+.styleMe {
+  background-color: #2b3e50;
+}
+
+.well div {
+  color: #bbb;
+}
+
+.thumbnail {
+  min-height: 210px;
+}
+
+.pad-left {
+  padding-left: 10px;
+}
+
+.green {
+  color: green !important;
+}
+
+.bold {
+  font-weight: bold;
+}
